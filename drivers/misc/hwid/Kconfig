@@ -1,0 +1,6 @@
+# SPDX-License-Identifier: GPL-2.0-only
+config MI_HARDWARE_ID
+	tristate "Xiaomi Hardware ID"
+	depends on MIHW
+	help
+	  Xiaomi Hardware ID driver.
