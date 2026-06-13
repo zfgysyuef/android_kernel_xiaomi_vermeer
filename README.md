@@ -151,6 +151,12 @@ make ARCH=arm64 LLVM=1 -j$(nproc) Image
 2. 通过 TWRP 或 KernelSU Manager 刷入
 3. 安装 ReSukiSU Manager APK
 
+## 如何联系我
+
+QQ@1806034839
+Coolapk 御坂114514号
+https://www.coolapk.com/u/36938523
+
 ## 致谢
 
 - [ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)
